@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EDUMOON/static/css/main.b860d491.css",
+    "main.js": "/EDUMOON/static/js/main.51fd2706.js",
+    "static/js/787.8d5e4315.chunk.js": "/EDUMOON/static/js/787.8d5e4315.chunk.js",
+    "index.html": "/EDUMOON/index.html",
+    "main.b860d491.css.map": "/EDUMOON/static/css/main.b860d491.css.map",
+    "main.51fd2706.js.map": "/EDUMOON/static/js/main.51fd2706.js.map",
+    "787.8d5e4315.chunk.js.map": "/EDUMOON/static/js/787.8d5e4315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b860d491.css",
+    "static/js/main.51fd2706.js"
+  ]
+}
